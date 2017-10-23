@@ -1,0 +1,1 @@
+export const my_text = 'Delete this jQuery code and get to work on some ECMAScript 6';
